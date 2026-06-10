@@ -1,2 +1,20 @@
 # theoriginalgoat.github.io
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>theoriginalgoat</title>
+</head>
+
+<body>
+    <h1>pluto is a planet</h1>
+
+    <p>and thoughts of that nature</p>
+
+    <h2>Posts</h2>
+
+    <ul>
+        <li><a href="post1.html">I give up</a></li>
+    </ul>
+</body>
+</html>
